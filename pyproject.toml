@@ -1,6 +1,6 @@
 [project]
 name = "recurring-event-skip-calculator"
-version = "0.1.1"
+version = "0.1.2"
 description = "Calculates the number of missed occurrences in a recurring event series during a specified gap."
 requires-python = ">=3.10"
 dependencies = []
